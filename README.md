@@ -67,7 +67,11 @@ This repository includes:
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft PowerBI (PL-300)
 
----
+  
+------
+## 🚀 Projects
+
+- [Amazon Prime Power BI Dashboard](https://github.com/mmosalem/amazon-prime-dashboard)
 
 ## 🔗 Connect
 - GitHub: https://github.com/mmosalem  
