@@ -1,51 +1,74 @@
-> 👩‍💻 IT Engineer | Data Analysis & Cloud Fundamentals
+# cloud-data-engineer-foundations
+## IT Engineer | Data Analysis & Cloud Portfolio
 
-### Tech Stack
+## 👩‍💻 About Me
+IT Engineer with hands-on experience in **Data Analysis** and **Cloud Fundamentals**.  
+I specialize in transforming raw data into meaningful insights while building a
+strong foundation in **Microsoft Azure and Cloud Security**.
 
-- 🛠 Data & Programming: Python, SQL
-- 📊 Analytics & BI: Power BI, Excel, Google Sheets
-- 🧹 Data Skills: Data Cleaning, Data Modeling
-- ☁️ Cloud: Microsoft Azure, Cloud Fundamentals
-- 🌐 Networking: Network Fundamentals, IP, VNet basics
-
----
-
-### Latest Projects 🚀
-
-- Data Analysis with Python & SQL (EDA, Cleaning, Insights)
-- Power BI Dashboards (Business & Reporting)
-- Azure Fundamentals Labs (VMs, Networking, Security basics)
-- IT & Cloud Notes (Best practices & concepts)
-
-> *More projects coming soon…*
+This repository showcases my practical work, continuous learning journey, and
+applied projects across **IT, Data, and Cloud technologies**.
 
 ---
 
-### TIL – Today I Learned 🗒
-
-- Public IP vs Private IP in Cloud Networking  
-- Why VMs should not have Public IP by default  
-- RBAC & Least Privilege principle  
-- Zero Trust vs Defense in Depth  
-- Basic Azure networking & security concepts  
-
----
-
-### Portfolio
-
-> *In progress – building real-world IT, Cloud & Data projects*
+## 📊 Data Analysis Skills
+- Python for Data Analysis
+- SQL (queries, joins, aggregations)
+- Data Cleaning & Data Modeling
+- Exploratory Data Analysis (EDA)
+- Power BI (Dashboards & Reports)
+- Microsoft Excel (advanced formulas & analysis)
+- Google Sheets (analysis & reporting)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide=stars,issues)
+## 🐍 Programming
+- Python (Pandas, NumPy, Matplotlib)
+- Data processing & basic automation scripts
 
-<details>
-  <summary>Click 👆</summary>
-  <pre>
-  Continuous learning | Hands-on practice | Cloud & Data journey
-  </pre>
-</details>
+---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)
-![Profile views](https://pageview.vercel.app/?github_user=YOUR_GITHUB_USERNAME)
+## ☁️ Cloud & IT Fundamentals
+- Cloud Computing Fundamentals
+- Microsoft Azure Fundamentals
+- Virtual Machines & Azure Resources
+- Cloud Networking Basics
+- Identity & Access Management (IAM) fundamentals
+- Core Cloud Security concepts
 
+---
+
+## 🛠️ Tools & Technologies
+- Azure Portal
+- Power BI
+- Python
+- SQL
+- Excel
+- Google Sheets
+- GitHub
+- AI 
+
+---
+
+## 📂 Repository Content
+This repository includes:
+(in progress)
+---
+
+## 🎯 Career Goals
+- Build a strong career in **IT, Cloud, and Data Analysis**
+- Apply data-driven decision-making in real-world scenarios
+- Grow into Cloud & Data-focused technical roles
+- Continuously improve technical and analytical skills
+
+---
+
+## 📌 Certifications (In Progress)
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft PowerBI (PL-300)
+
+---
+
+## 🔗 Connect
+- GitHub: https://github.com/mmosalem  
+- LinkedIn: https://www.linkedin.com/in/mariem-mosalem-639909295/
