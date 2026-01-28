@@ -1,97 +1,51 @@
-# cloud-data-engineer-foundations
+> 👩‍💻 IT Engineer | Data Analysis & Cloud Fundamentals
 
-# IT Engineer | Data Analysis & Cloud Portfolio
+### Tech Stack
 
-## 👩‍💻 About Me
-IT Engineer with hands-on experience in **Data Analysis** and **Cloud Fundamentals**.  
-Skilled in transforming raw data into meaningful insights and building a strong
-foundation in **Azure, Networking, and Cloud Security**.
-
-This repository showcases my practical work, learning journey, and applied
-projects across IT, Data, and Cloud technologies.
+- 🛠 Data & Programming: Python, SQL
+- 📊 Analytics & BI: Power BI, Excel, Google Sheets
+- 🧹 Data Skills: Data Cleaning, Data Modeling
+- ☁️ Cloud: Microsoft Azure, Cloud Fundamentals
+- 🌐 Networking: Network Fundamentals, IP, VNet basics
 
 ---
 
-## 📊 Data Analysis Skills
-- Python for Data Analysis
-- SQL (queries, joins, aggregations)
-- Data Cleaning & Data Modeling
-- Exploratory Data Analysis (EDA)
-- Power BI (dashboards & reports)
-- Microsoft Excel (advanced formulas, analysis)
-- Google Sheets (analysis & reporting)
+### Latest Projects 🚀
+
+- Data Analysis with Python & SQL (EDA, Cleaning, Insights)
+- Power BI Dashboards (Business & Reporting)
+- Azure Fundamentals Labs (VMs, Networking, Security basics)
+- IT & Cloud Notes (Best practices & concepts)
+
+> *More projects coming soon…*
 
 ---
 
-## 🐍 Programming
-- Python (Pandas, NumPy, Matplotlib)
-- Data processing & automation scripts
+### TIL – Today I Learned 🗒
+
+- Public IP vs Private IP in Cloud Networking  
+- Why VMs should not have Public IP by default  
+- RBAC & Least Privilege principle  
+- Zero Trust vs Defense in Depth  
+- Basic Azure networking & security concepts  
 
 ---
 
-## ☁️ Cloud & IT Fundamentals
-- Cloud Computing Fundamentals
-- Microsoft Azure Fundamentals
-- Virtual Machines & Cloud Resources
-- Cloud Networking Basics
-- Identity & Access Management basics
-- Cloud Security concepts
+### Portfolio
+
+> *In progress – building real-world IT, Cloud & Data projects*
 
 ---
 
-## 🌐 Networking Fundamentals
-- IP Addressing
-- Public IP vs Private IP
-- Virtual Networks (VNet)
-- Network Security Groups (NSG)
-- Secure access best practices
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide=stars,issues)
 
----
+<details>
+  <summary>Click 👆</summary>
+  <pre>
+  Continuous learning | Hands-on practice | Cloud & Data journey
+  </pre>
+</details>
 
-## 🔐 Security Concepts
-- Least Privilege Access
-- Role-Based Access Control (RBAC)
-- Zero Trust Model
-- Defense in Depth
-- Basic monitoring & security awareness
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)
+![Profile views](https://pageview.vercel.app/?github_user=YOUR_GITHUB_USERNAME)
 
----
-
-## 🛠️ Tools & Technologies
-- Azure Portal
-- Power BI
-- Python
-- SQL
-- Excel
-- Google Sheets
-- GitHub
-
----
-
-## 📂 Repository Content
-This repository includes:
-- 📘 Data analysis projects and case studies
-- 📊 Power BI dashboards
-- 🧪 Python & SQL notebooks
-- ☁️ Cloud and Azure notes
-- 🌐 Networking & security fundamentals
-- 📝 Clear documentation and explanations
-
----
-
-## 🎯 Career Goals
-- Build a strong career in **IT, Cloud, and Data Analysis**
-- Apply data-driven decision making
-- Grow into Cloud & Data-focused roles
-- Continuously learn and improve technical skills
-
----
-
-## 📌 Certifications (In Progress)
-- Microsoft Azure Fundamentals (AZ-900)
-
----
-
-## 🔗 Connect
-- GitHub: (https://github.com/mmosalem)
-- LinkedIn: (https://www.linkedin.com/in/mariem-mosalem-639909295/)
